@@ -1,0 +1,102 @@
+#list{
+    font-size:300%;
+    position:absolute;
+    top: 350px;
+    left: 20px;
+}
+img{
+    width:400px ;
+    height: 227px;
+    position:absolute;
+    top: 100px;
+    border-radius: 20px;
+}
+div{
+    font-size: 50px;
+    color: whitesmoke;
+    background-color: rgb(16, 3, 67) ;
+    padding: 5px;
+    border-radius:10px;
+}
+.center{
+    position: absolute;
+    left: 450px;
+    border: 1px blur black;
+    opacity: 1.0;
+    box-shadow:10px 10px 5px  black;
+}
+.left{
+    position: absolute;
+    left: 10px;
+    border: 1px blur black;
+    opacity: 1.0;
+    box-shadow:10px 10px 5px  black;
+}
+.right{
+    position: absolute;
+    left: 900px;
+    border: 1px blur black;
+    opacity: 1.0;
+    box-shadow:10px 10px 5px  black;
+}
+h1{
+    position: absolute;
+    font-size: 300%;
+    left: 650px;
+    top: 50px;
+    color:black;
+    text-shadow: 2px 2px 5px red;
+    display: block;
+    border:5px groove;
+    padding:5px;
+
+}
+span {
+    color: yellow;
+    border-radius: 10px;
+}
+img:hover {
+    box-shadow:10px 10px 5px rgb(232, 23, 8) ;
+}
+.leftb{
+    position: absolute;
+    top:350px
+}
+main {
+    position:absolute;
+    top: 450px; 
+}
+h2 {
+    position:absolute;
+    top: 150px;
+    color: antiquewhite;
+    background-color: blueviolet;
+    font-size: 200%;
+    padding:5px;
+    border-radius:10px;
+}
+.lhead {
+    position: absolute;
+    font-size: 300%;
+    left: 10px;
+    top: 270px;
+    color:black;
+    text-shadow: 2px 2px 5px red;
+    display: block;
+    border:5px groove;
+    padding:5px;
+}
+.lbottom {
+    position:absolute;
+    top: 370px;
+}
+.foot {
+    font-size: 30px;
+    position: absolute;
+    top: 1200px;
+    left:30px;
+}
+body{
+    background-image: url("paper.jpg");
+    background-size: cover;
+}
